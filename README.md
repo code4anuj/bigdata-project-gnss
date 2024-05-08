@@ -18,6 +18,7 @@ In this project, we delve into the realm of Big Data Analysis to improve the acc
 - `models/`: Stores trained machine learning models.
 - `src/`: Source code files, including Kalman filtering implementation, if any.
 - `README.md`: Overview and instructions for the project.
+- `results.png`: Image showing the error of the trained model. The y-axis represents the error multiplied by 10,000 to display it in centimeters.
 
 ### Project Workflow:
 1. **Data Collection**: Gather GNSS data at both aggregate and phone levels.
@@ -42,4 +43,4 @@ In this project, we delve into the realm of Big Data Analysis to improve the acc
 ### License:
 This project is licensed under the [MIT License](LICENSE).
 
-For any queries or feedback, feel free to contact Anuj Patel at [anuj.pce21@sot.pdpu.ac.in](mailto:anuj.pce21@sot.pdpu.ac.in).
+For any queries or feedback, feel free to contact Anuj Patel at [email@example.com](mailto:email@example.com).
