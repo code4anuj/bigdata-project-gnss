@@ -12,14 +12,6 @@ This repository contains the code for the project titled "GNSS Decimeter Level A
 ### About the Project:
 In this project, we delve into the realm of Big Data Analysis to improve the accuracy of GNSS measurements. The focus lies on utilizing machine learning algorithms, coupled with Kalman filtering, to refine the accuracy of GNSS measurements at the decimeter level. The repository includes exploratory data analysis (EDA) performed on both aggregate and phone-level data. Subsequently, a neural network model is trained to predict the residuals of base estimations provided with aggregated features.
 
-### Repository Structure:
-- `data/`: Contains the datasets used for analysis and model training.
-- `notebooks/`: Jupyter notebooks containing the code for EDA and model training.
-- `models/`: Stores trained machine learning models.
-- `src/`: Source code files, including Kalman filtering implementation, if any.
-- `README.md`: Overview and instructions for the project.
-- `results.png`: Image showing the error of the trained model. The y-axis represents the error multiplied by 10,000 to display it in centimeters.
-
 ### Project Workflow:
 1. **Data Collection**: Gather GNSS data at both aggregate and phone levels.
 2. **Exploratory Data Analysis (EDA)**: Understand the characteristics of the data, identify patterns, and gain insights.
@@ -44,3 +36,6 @@ In this project, we delve into the realm of Big Data Analysis to improve the acc
 This project is licensed under the [MIT License](LICENSE).
 
 For any queries or feedback, feel free to contact Anuj Patel at [email@example.com](mailto:email@example.com).
+
+![GNSS Model Results](results.png)
+
