@@ -1,6 +1,6 @@
 # GNSS Decimeter Level Accuracy Improvement using Machine Learning
 
-## Big Data Analysis - Sem 6
+## Big Data Analysis - Sem 6 - Anuj Patel
 
 ### Project Overview:
 This repository contains the code for the project titled "GNSS Decimeter Level Accuracy Improvement using ML." The project aims to enhance the accuracy of GNSS (Global Navigation Satellite System) measurements at the decimeter level using machine learning techniques, with the integration of Kalman filtering.
