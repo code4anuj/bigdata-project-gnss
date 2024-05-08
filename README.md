@@ -42,4 +42,4 @@ In this project, we delve into the realm of Big Data Analysis to improve the acc
 ### License:
 This project is licensed under the [MIT License](LICENSE).
 
-For any queries or feedback, feel free to contact Anuj Patel at [email@example.com](mailto:email@example.com).
+For any queries or feedback, feel free to contact Anuj Patel at [anuj.pce21@sot.pdpu.ac.in](mailto:anuj.pce21@sot.pdpu.ac.in).
