@@ -21,10 +21,13 @@ In this project, we delve into the realm of Big Data Analysis to improve the acc
 6. **Model Evaluation**: Assess the performance of the trained model using appropriate metrics.
 7. **Deployment**: If applicable, deploy the model for practical use.
 
+### Results 
+![GNSS Model Results](results.png)
+
 ### Instructions for Use:
 1. Clone the repository to your local machine.
 2. Install the required dependencies as mentioned in `requirements.txt`.
-3. Explore the Jupyter notebooks in the `notebooks/` directory for EDA, model training, and Kalman filtering implementation.
+3. Explore the Jupyter notebooks for EDA, model training, and Kalman filtering implementation.
 4. Follow the instructions within the notebooks to execute the code and reproduce the results.
 
 ### Contribution Guidelines:
@@ -37,5 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any queries or feedback, feel free to contact Anuj Patel at [email@example.com](mailto:email@example.com).
 
-![GNSS Model Results](results.png)
 
